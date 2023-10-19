@@ -1,0 +1,34 @@
+[
+    {
+        "id": 0,
+        "name": "Jhon Gonzales",
+        "age": 42,
+        "gen": "Masculino",
+        "date": "09/06/1978",
+        "ocupation": "profesor"
+    },
+    {
+        "id": 1,
+        "name": "Juan Ramirez",
+        "age": 22,
+        "gen": "Masculino",
+        "date": "03/31/2001",
+        "ocupation": "Estudiante Holberton"
+    },
+    {
+        "id": 2,
+        "name": "Maria Pradera",
+        "age": 19,
+        "gen": "Femenino",
+        "date": "29/01/2004",
+        "ocupation": "profesora"
+    },
+    {
+        "id": 3,
+        "name": "Celia Fuentes",
+        "age": 40,
+        "gen": "Femenino",
+        "date": "09/06/1983",
+        "ocupation": "profesora"
+    }
+]
