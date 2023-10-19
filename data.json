@@ -5,7 +5,9 @@
         "age": 42,
         "gen": "Masculino",
         "date": "09/06/1978",
-        "ocupation": "profesor"
+        "ocupation": "profesor",
+        "img": "images/man1.jpg",
+        "description": "El programador, apasionado del código y la lógica, se embarca en un viaje diario para resolver problemas complejos. Su habilidad para traducir ideas en software funcional es incomparable. Con mentalidad analítica y creatividad, este artista digital teje algoritmos, creando un mundo digital coherente que impulsa nuestras vidas cotidianas hacia el futuro tecnológico."
     },
     {
         "id": 1,
@@ -13,7 +15,9 @@
         "age": 22,
         "gen": "Masculino",
         "date": "03/31/2001",
-        "ocupation": "Estudiante Holberton"
+        "ocupation": "Estudiante Holberton",
+        "img": "images/man2.jpg",
+        "description": "El programador es un arquitecto digital, esculpiendo universos en cada línea de código. Con una mente incansablemente curiosa, transforma problemas en soluciones elegantes. Cada algoritmo, un pilar de su ingeniería. Cada bug, un desafío intrigante. Para él, cada programa es una obra maestra, una expresión de su pasión por la creación digital."
     },
     {
         "id": 2,
@@ -22,7 +26,8 @@
         "gen": "Femenino",
         "date": "29/01/2004",
         "ocupation": "profesora",
-        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Flac.unwomen.org%2Fes%2Fnoticias-y-eventos%2Farticulos%2F2021%2F11%2Ftres-mujeres-colombianas-rompiendo-estereotipos&psig=AOvVaw0PGinSWnbFeOhYeumSN89y&ust=1697838525263000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLig5MOLg4IDFQAAAAAdAAAAABAJ"
+        "img": "images/woman2.jpg",
+        "description": "La programadora, una alquimista moderna, transforma ideas en realidad digital. Con astucia y perseverancia, teje complejas redes de código. Su enfoque meticuloso y habilidades multitarea hacen florecer proyectos tecnológicos. En un mundo dominado por líneas de código, ella es la narradora, dando vida a las historias digitales que definen nuestro tiempo."
     },
     {
         "id": 3,
@@ -31,5 +36,7 @@
         "gen": "Femenino",
         "date": "09/06/1983",
         "ocupation": "profesora"
+        "img": "images/woman1.jpg",
+        "description": "La programadora, con su creatividad y determinación, desafía las normas en el mundo digital. Su habilidad para ver más allá de los ceros y unos, convierte algoritmos en arte funcional. Cada aplicación que crea es un testimonio de su habilidad, un reflejo de su espíritu innovador. En su código, encuentra su voz y transforma el panorama tecnológico"
     }
 ]
