@@ -21,7 +21,8 @@
         "age": 19,
         "gen": "Femenino",
         "date": "29/01/2004",
-        "ocupation": "profesora"
+        "ocupation": "profesora",
+        "img": "woman.png"
     },
     {
         "id": 3,
