@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Show Description</title>
+    <!-- CSS BOOSTRAP -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- CSS NATIVE -->
+    <link rel="stylesheet" href="styles.css"/>
+    <!-- JQuery -->
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+</head>
+<body>
+    <header class="bg-dark text-white text-center py-3">
+        <h1>Show Description</h1>
+    </header>
+    <main class="container mt-5">
+        <div class="row">
+            <div class="col-lg-3 col-md-6 mb-4 col-sm-6 flex">
+                <div class="card h-100">
+                    <div class="card-body cd_cont">
+                        <img src="images/man1.jpg" class="btn_modal" data-index="0" alt="man1.png" title="Jhon Gonzales">
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 mb-4 col-sm-6 flex end">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <img src="images/man2.jpg" class="btn_modal" data-index="1" alt="man2.png" title="Juan Ramirez">
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 mb-4 col-sm-6 flex">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <img src="images/woman2.jpg" class="btn_modal" data-index="2" alt="woman1.png" title="Maria Pradera">
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 mb-4 col-sm-6 flex end">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <img src="images/womam1.jpg" class="btn_modal" data-index="3" alt="woman2.png" title="Cecilia Fuentes">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="script.js"></script>
+    <div class="md_bg">
+        <div class="md_cont">
+            <img src="images/man1.jpg" class="md_img">
+            <div>
+                <h2 class="md_name"></h2>
+                <div class="md_p">
+                    <p><b>Edad: </b><span class="md_age"></span></p>
+                    <p><b>Genero: </b><span class="md_gen"></span></p>
+                </div>
+                <div class="md_p">
+                    <p><b>Fech. Nac: </b><span class="md_date"></span></p>
+                    <p><b>Ocupación: </b><span class="md_ocp"></span></p>
+                </div>
+                <p class="md_tdes"><b>Description:</b></p>
+                <p class="md_dscrtp">a</p>
+                <span class="close_md">&#9747;</span>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
