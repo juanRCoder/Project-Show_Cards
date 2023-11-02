@@ -4,7 +4,7 @@
 - The purpose of this project is to display the person's information in the API.
 - Each card will open a modal which will display the person's information.
 - We request the API data to display it on our WEBSITE.
-
+- URL: https://juanrcoder.github.io/Project-Show_Cards/
 ## Languajes / Tools📌:
 - HTML
 - CSS
